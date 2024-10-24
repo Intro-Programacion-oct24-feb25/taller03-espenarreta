@@ -15,6 +15,14 @@ public class Ejercicio06 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // Asignamos variables
+        int a = 81;
+        int b = 9;
+        int c = 3;
+        int d = 10;
+        int e = 1;
+        
+        System.out.println(((Math.sqrt(a)+b)/c==b) && (d>e));
     }
     
 }
