@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package ejercicio04;
+package ejercicio05;
 
 /**
  *
  * @author utpl
  */
-public class Ejercicio04 {
+public class Ejercicio05 {
 
     /**
      * @param args the command line arguments
@@ -18,14 +18,14 @@ public class Ejercicio04 {
         
         // Asignamos variables
         
-        int a = 20;
-        int b = 1;
-        int c = 2;
+        int a = 2;
+        int b = 12;
+        int c = 1;
         int d = 3;
         
-        // Resolvemos el ejercicio
+        // Resolvemos el Ejercicio
         
-        System.out.println(a/(b+d)+c>=d);
+        System.out.println((Math.pow(a,a) + b - c)/d);
         
     }
     
